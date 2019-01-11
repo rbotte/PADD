@@ -10,7 +10,7 @@ PADD (formerly Chronometer2) is a more expansive version of the original chronom
 - Get a copy of PADD by running:
 ```bash
 cd ~
-wget -N https://raw.githubusercontent.com/jpmck/PADD/master/padd.sh
+wget -N https://raw.githubusercontent.com/jpmck/rbotte/master/padd.sh
 ```
 - Make PADD executable by running
 ```bash
