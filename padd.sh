@@ -77,9 +77,9 @@ PADDTextRetro="${boldText}${redText}P${yellowText}A${greenText}D${blueText}D${re
 miniTextRetro="${dimText}${cyanText}m${magentaText}i${redText}n${yellowText}i${resetText}"
 
 # PADD logos - regular and retro
-PADDLogo1="${boldText}${greenText} __      __  __   ${resetText}"
-PADDLogo2="${boldText}${greenText}|__) /\ |  \|  \  ${resetText}"
-PADDLogo3="${boldText}${greenText}|   /--\|__/|__/  ${resetText}"
+PADDLogo1="${boldText}${greenText} ___   ___   ___  ${resetText}"
+PADDLogo2="${boldText}${greenText}|___) |___  |___) ${resetText}"
+PADDLogo3="${boldText}${greenText}|  \   ___| |___) ${resetText}"
 PADDLogoRetro1="${boldText} ${yellowText}_${greenText}_      ${blueText}_   ${yellowText}_${greenText}_   ${resetText}"
 PADDLogoRetro2="${boldText}${yellowText}|${greenText}_${blueText}_${cyanText}) ${redText}/${yellowText}\ ${blueText}|  ${redText}\\${yellowText}|  ${cyanText}\  ${resetText}"
 PADDLogoRetro3="${boldText}${greenText}|   ${redText}/${yellowText}-${greenText}-${blueText}\\${cyanText}|${magentaText}_${redText}_${yellowText}/${greenText}|${blueText}_${cyanText}_${magentaText}/  ${resetText}"
